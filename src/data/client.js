@@ -33,7 +33,7 @@ export const SERVICES = [
       'Окантовка контуру',
       'Сухе укладання',
     ],
-    photo: 'pixabay_1188394.jpg',
+    photo: 'pixabay_3572054.jpg',
   },
   {
     id: 'strizhka-boroda',
@@ -50,7 +50,7 @@ export const SERVICES = [
       'Контур бритвою',
       'Тонік після гоління',
     ],
-    photo: 'pixabay_1840332.jpg',
+    photo: 'pixabay_5212055.jpg',
   },
   {
     id: 'boroda',
@@ -66,7 +66,7 @@ export const SERVICES = [
       'Моделювання густини',
       'Олія для бороди',
     ],
-    photo: 'pixabay_5212054.jpg',
+    photo: 'pixabay_2507732.jpg',
   },
   {
     id: 'gholennia',
@@ -83,7 +83,7 @@ export const SERVICES = [
       'Холодний рушник',
       'Тонік і масаж',
     ],
-    photo: 'pixabay_3963238.jpg',
+    photo: 'pixabay_1007874.jpg',
   },
   {
     id: 'dytiacha',
@@ -99,7 +99,7 @@ export const SERVICES = [
       'Стрижка ножицями',
       'Леденець у фінал',
     ],
-    photo: 'pixabay_2345701.jpg',
+    photo: 'pixabay_6818713.jpg',
   },
 ]
 
@@ -154,18 +154,18 @@ export const HOW_STEPS = [
 ]
 
 export const PORTFOLIO = [
-  { photo: 'pixabay_1007874.jpg', caption: 'Класичний фейд з бородою', tag: 'Фейд' },
-  { photo: 'pixabay_1007875.jpg', caption: 'Кроп з лінією від скроні', tag: 'Кроп' },
-  { photo: 'pixabay_1007882.jpg', caption: 'Британська класика з проділом', tag: 'Класика' },
-  { photo: 'pixabay_1514876.jpg', caption: 'Андеркат, зачісаний назад', tag: 'Андеркат' },
-  { photo: 'pixabay_1839935.jpg', caption: 'Гоління голови небезпечною бритвою', tag: 'Гоління' },
-  { photo: 'pixabay_1851535.jpg', caption: "Бізнес-стрижка перед інтерв'ю", tag: 'Бізнес' },
-  { photo: 'pixabay_2165745.jpg', caption: 'Корекція бороди ножицями', tag: 'Борода' },
-  { photo: 'pixabay_413688.jpg', caption: 'Гаряча бритва з рушником', tag: 'Гоління' },
-  { photo: 'pixabay_5194402.jpg', caption: 'Молодіжний кроп з виразним чубом', tag: 'Кроп' },
-  { photo: 'pixabay_5225266.jpg', caption: 'Стрижка плюс гаряча бритва', tag: 'Класика' },
-  { photo: 'pixabay_6797871.jpg', caption: 'Тонкий розмитий фейд', tag: 'Фейд' },
-  { photo: 'pixabay_6797882.jpg', caption: 'Дві стрижки поспіль — батько і син', tag: 'Класика' },
+  { photo: 'pixabay_5225260.jpg', caption: 'Класичний фейд у теплому світлі', tag: 'Фейд' },
+  { photo: 'pixabay_6818732.jpg', caption: 'Корекція машинкою з точними переходами', tag: 'Машинка' },
+  { photo: 'pixabay_6797871.jpg', caption: 'Стрижка ножицями, ретельна робота', tag: 'Ножиці' },
+  { photo: 'pixabay_5212051.jpg', caption: 'Стрижка з фінальною укладкою', tag: 'Укладка' },
+  { photo: 'pixabay_5212053.jpg', caption: 'Тиха зосереджена робота у теплій атмосфері', tag: 'Класика' },
+  { photo: 'pixabay_4019672.jpg', caption: 'Сушка феном і фінальна форма', tag: 'Укладка' },
+  { photo: 'pixabay_4019676.jpg', caption: 'Контур на скронях електробритвою', tag: 'Контур' },
+  { photo: 'pixabay_4019683.jpg', caption: 'Завершення стрижки у салоні', tag: 'Класика' },
+  { photo: 'pixabay_4618697.jpg', caption: 'Гоління бороди небезпечною бритвою', tag: 'Гоління' },
+  { photo: 'pixabay_1007882.jpg', caption: 'Стрижка під теплою вінтажною лампою', tag: 'Вінтаж' },
+  { photo: 'pixabay_5212054.jpg', caption: 'Жвавий вечір у барбершопі', tag: 'Атмосфера' },
+  { photo: 'pixabay_5225266.jpg', caption: 'Стилізація з теплим освітленням', tag: 'Стиль' },
 ]
 
 export const REVIEWS = [
@@ -189,9 +189,9 @@ export const FAQ = [
 ]
 
 export const TEAM = [
-  { name: 'Артем', role: 'Старший барбер', exp: '10 років досвіду', spec: 'Класика, фейд, борода', photo: 'pixabay_8633974.jpg' },
-  { name: 'Олег', role: 'Барбер', exp: '6 років досвіду', spec: 'Фейд, кроп, дитячі стрижки', photo: 'pixabay_7021790.jpg' },
-  { name: 'Тарас', role: 'Барбер', exp: '5 років досвіду', spec: 'Андеркат, борода, гоління', photo: 'pixabay_6964561.jpg' },
+  { name: 'Артем', role: 'Старший барбер', exp: '10 років досвіду', spec: 'Класика, фейд, борода', photo: 'pixabay_2595657.jpg' },
+  { name: 'Олег', role: 'Барбер', exp: '6 років досвіду', spec: 'Фейд, кроп, дитячі стрижки', photo: 'pixabay_5194406.jpg' },
+  { name: 'Тарас', role: 'Барбер', exp: '5 років досвіду', spec: 'Андеркат, борода, гоління', photo: 'pixabay_5212058.jpg' },
 ]
 
 export const STORY = [

@@ -68,8 +68,8 @@ export default function Hero() {
         <div data-h="visual" className="lg:col-span-5 relative">
           <div className="relative aspect-[4/5] lg:aspect-[3/4] overflow-hidden">
             <img
-              src={`${import.meta.env.BASE_URL}photos/pixabay_1007891.jpg`}
-              alt="Інтер'єр Barbershop Blade у Житомирі"
+              src={`${import.meta.env.BASE_URL}photos/pixabay_10297388.jpg`}
+              alt="Інтер'єр Barbershop Blade у Житомирі — вінтажні крісла і атмосфера"
               className="absolute inset-0 w-full h-full object-cover"
               fetchpriority="high"
             />

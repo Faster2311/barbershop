@@ -13,7 +13,7 @@ export default function PortfolioPage() {
         kicker="Архів"
         title="Реальні роботи майстрів Blade"
         lede="Більше двох тисяч стрижок за сім років. Ось дюжина — щоб ти бачив, як виглядають фейд, кроп, класика і борода в наших руках."
-        image="pixabay_1007882.jpg"
+        image="pixabay_1453064.jpg"
         crumbs={[{ label: 'Портфоліо' }]}
       />
 
