@@ -50,7 +50,7 @@ export const SERVICES = [
       'Контур бритвою',
       'Тонік після гоління',
     ],
-    photo: 'pixabay_5212055.jpg',
+    photo: 'pixabay_6818694.jpg',
   },
   {
     id: 'boroda',
@@ -66,7 +66,7 @@ export const SERVICES = [
       'Моделювання густини',
       'Олія для бороди',
     ],
-    photo: 'pixabay_2507732.jpg',
+    photo: 'pixabay_6818742.jpg',
   },
   {
     id: 'gholennia',
